@@ -85,12 +85,6 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="Machine Learning" width="70" height="70" style="border: 2px solid #FF6F00; border-radius: 50%;" />
 </a>
 
-<!-- Artificial Intelligence (AI) -->
-<a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/artificial_intelligence/artificial_intelligence-icon.svg" alt="Artificial Intelligence" width="70" height="70" style="border: 2px solid #FF4081; border-radius: 50%;" />
-</a>
-
-
 <!-- Java -->
 <a href="https://www.java.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="70" height="70" style="border: 2px solid #E71F00; border-radius: 50%;" />
