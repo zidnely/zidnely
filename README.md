@@ -3,7 +3,7 @@
 
 <h3 align="center">A Curious Software Engineer</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Node.js & Express**
 - 👨‍💻 All of my projects are available at 
 - 💬 Ask me about **Javascript, Typescript, React, NextJS, Node, Express, PHP, Python, Java, AI & ML**
 - 📫 How to reach me **zidnelyo@gmail.com**
