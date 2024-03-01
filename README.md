@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at 
 - 💬 Ask me about **Javascript, Typescript, React, NextJS, Node, Express, PHP, Python, Java, AI & ML**
 - 📫 How to reach me **zidnelyo@gmail.com**
-- ⚡ Favourite Quote **Code is poetry written by engineers 👨🏾‍💻**
+- ⚡ **Code is poetry written by engineers 👨🏾‍💻**
 
 <h3 align="center">Languages and Tools:</h3><p align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
